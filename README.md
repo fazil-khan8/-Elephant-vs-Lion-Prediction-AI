@@ -7,8 +7,13 @@ A deep learning image classifier that distinguishes between **Elephants** 🐘 a
 ## 📸 Application Screenshots
 
 ### Streamlit Web Interface
+![Home Screen](screenshots/home.png)
 
-> Upload any elephant or lion image and get instant AI predictions!
+### 🐘 Elephant Prediction
+![Elephant Prediction](screenshots/elephant.png)
+
+### 🦁 Lion Prediction
+![Lion Prediction](screenshots/lion.png)
 
 ---
 
